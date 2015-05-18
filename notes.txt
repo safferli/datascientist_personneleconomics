@@ -1,4 +1,8 @@
-What is a Data Scientist? 
+# Ubisoft Blue Byte
+
+* company history
+
+# What is a Data Scientist? 
 
 Data Scientist: the sexiest job of the 21st century
 Havard Business Review, October 2012
@@ -6,14 +10,26 @@ https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/
 
 triangle: domain knowledge - math knowledge - tech knowledge
 
-How do you get Data Scientists?
+# How do you get Data Scientists?
 
 * be international
+	Chinese
+	Russian
+	Japanese
+	Ukranian
+	Canadian
+	German
 * recruit young talent
+	many universities now have data science courses
+* offer an interesting challenge
+	no platitudes!
+	don't exaggerate, data scientists are good at building models and extrapolating
 
-How can you retain Data Scientists? 
+# How can you retain Data Scientists? 
 
 * pay them enough (but pay is not important)
 * give them options to make a difference (Importance)
 * give them the feeling of competence (this includes letting them grow professionally) (Master)
 * give them the tools and opportunities for autonomy (Autonomy)
+
+these are smart people, who will have a good overview of everything that your company is doing (they're crunching the data!). Don't try to fool them, you'll fail. 
