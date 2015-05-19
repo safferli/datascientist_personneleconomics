@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3059"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="barycentric-triangle.svg">
+  <defs
+     id="defs3061" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="382.88729"
+     inkscape:cy="590.85348"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3007"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="1912"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3064">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3007"
+       transform="translate(365.67668,390.81746)">
+      <path
+         style="fill:#333333;fill-opacity:1"
+         d="m -120.43314,180.00894 c 0.0926,-0.42833 -0.14777,-1.49211 -0.53415,-2.36396 -0.8729,-1.9697 7.0203,-19.27641 11.87068,-26.0278 1.90904,-2.65724 6.21086,-10.29705 9.559595,-16.97736 3.348738,-6.68032 9.47417,-17.79752 13.612071,-24.70489 4.137901,-6.90738 10.361096,-17.991692 13.829321,-24.631822 9.393315,-17.98406 33.350277,-61.42369 40.578067,-73.57761 2.12753,-3.5775596 4.40554,-8.0775596 5.06226,-9.9999996 0.65671,-1.92244 3.74848,-7.77035 6.87059,-12.9953504 3.12211,-5.225 8.29344,-14.5625 11.4918302,-20.75 3.19839,-6.1875 6.24115,-11.25 6.7617,-11.25 2.09205001,0 6.85263,6.56792 11.7888198,16.2644 2.86585,5.62958 7.59259,13.43516 10.50385,17.3457204 2.91127,3.91057 7.18855,10.88557 9.50506,15.5 4.38821,8.7411996 28.03259,49.0610896 33.36135,56.8898896 1.68464,2.475 5.36338,8.775 8.17497,14 5.44596,10.12063 17.37824,30.872142 21.56279,37.500002 6.674616,10.57185 13.080916,21.84288 17.169656,30.2077 2.4754,5.06423 7.9166,14.13679 12.09155,20.16125 4.17495,6.02445 7.59082,11.25063 7.59082,11.61373 0,0.3631 -0.69447,1.35465 -1.54328,2.20345 -1.29352,1.29353 -4.40879,1.50583 -19.25,1.31187 -14.071556,-0.1839 -110.05896579,-0.35432 -125.206716,-0.22229 -1.925,0.0168 -10.25,0.0205 -18.5,0.008 -8.25,-0.0122 -15.674997,-0.022 -16.499997,-0.0217 -0.825,2.8e-4 -16.916817,0.29182 -35.759594,0.64786 -18.842773,0.35604 -34.183833,0.29689 -34.091243,-0.13144 z M 66.592894,75.016228 c -8.23122,-12.69663 -36.65239,-62.54956 -39.21691,-68.2591396 -1.35206,-3.01018 -5.03413,-8.95947 -8.18237,-13.22065 -3.14825,-4.2611704 -7.57685,-11.4325404 -9.8413298,-15.9363804 -4.63407,-9.21671 -8.81685999,-15.86991 -9.97721999,-15.86991 -0.42728001,0 -2.88726001,4.1625 -5.46664001,9.25 -2.57938,5.0875 -7.2277502,13.525 -10.3297002,18.75 -3.10195,5.2250004 -6.3705,11.3646304 -7.26345,13.6436304 -0.89294,2.27899 -3.20578,6.7789896 -5.13965,9.9999996 -1.93386,3.221 -6.21774,10.80637 -9.51974,16.85637 -3.302,6.05 -10.106414,18.38676 -15.120914,27.415 -5.0145,9.02825 -9.117273,16.56092 -9.626848,18.18892 l -7.31368,13.22286 c -3.527627,6.10389 -9.383192,16.973452 -13.517553,23.874922 -4.134362,6.90147 -10.083935,17.66691 -13.221276,23.92321 -3.137343,6.25631 -7.376663,13.8501 -9.420723,16.8751 -4.52375,6.69469 -12.07161,22.60203 -11.16984,23.54079 0.35896,0.37368 9.87765,0.31869 21.152647,-0.12221 11.275,-0.44089 21.7375,-0.76669 23.25,-0.72399 1.5125,0.0427 6.6875,0.0928 11.5,0.1113 4.8125,0.0185 32.599997,0.16288 61.74999721,0.32081 29.14999979,0.15794 55.69999979,0.24156 58.99999979,0.18583 3.3,-0.0557 19.8375,-0.19932 36.75,-0.31909 16.912496,-0.11978 30.749996,-0.44117 30.749996,-0.71422 0,-0.27304 -3.42349,-5.44779 -7.60776,-11.49944 -4.18426,-6.05165 -9.1578,-14.40436 -11.0523,-18.56157 -3.06146,-6.71793 -12.000106,-22.44302 -19.166516,-33.71821 -3.3153,-5.2161 -17.35745,-29.068012 -21.92588,-37.527492"
+         id="path3009"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssssssssssssssssssssscccscccsssssssssscsssssssssssssssc"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+         d="M -0.85060784,-40.215426 C 0.80371243,13.548236 -0.06302908,55.192136 0.38291369,85.809801 1.7425833,179.16238 0.49055507,178.90102 0.49055507,178.90102"
+         id="path3896"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0"
+         d="M 493.20698,567.99404 C 308.92857,451.29075 308.92857,451.29075 308.92857,451.29075"
+         id="path3898"
+         inkscape:connector-curvature="0"
+         transform="translate(-365.67668,-390.81746)"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0"
+         d="m 246.07143,568.79075 c 177.14286,-120 177.14286,-119.64285 177.14286,-119.64285"
+         id="path3900"
+         inkscape:connector-curvature="0"
+         transform="translate(-365.67668,-390.81746)"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237" />
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:xkcd;-inkscape-font-specification:xkcd"
+         x="237.14285"
+         y="577.7193"
+         id="text3904"
+         sodipodi:linespacing="125%"
+         transform="translate(-365.67668,-390.81746)"><tspan
+           sodipodi:role="line"
+           id="tspan3906"
+           x="237.14285"
+           y="577.7193" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Humor Sans;-inkscape-font-specification:Humor Sans"
+         x="122.18049"
+         y="190.11613"
+         id="text3908"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237"><tspan
+           sodipodi:role="line"
+           id="tspan3910"
+           x="122.18049"
+           y="190.11613">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd"
+   id="tspan3916">0,1,0</tspan>)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Humor Sans;-inkscape-font-specification:Humor Sans"
+         x="228.12074"
+         y="107.01563"
+         id="text3908-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3910-2"
+           x="228.12074"
+           y="107.01563">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd"
+   id="tspan3916-3">0,1,0</tspan>)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Humor Sans;-inkscape-font-specification:Humor Sans"
+         x="248.47789"
+         y="80.944199"
+         id="text3908-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3910-6"
+           x="248.47789"
+           y="80.944199">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd"
+   id="tspan3916-8">0,1,0</tspan>)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Humor Sans;-inkscape-font-specification:Humor Sans"
+         x="48.835052"
+         y="30.229912"
+         id="text3908-8"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237"><tspan
+           sodipodi:role="line"
+           id="tspan3910-27"
+           x="48.835052"
+           y="30.229912">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd"
+   id="tspan3916-7">0.33,0.33,0.33</tspan>)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Humor Sans;-inkscape-font-specification:Humor Sans"
+         x="-14.736385"
+         y="-47.627232"
+         id="text3908-12"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237"><tspan
+           sodipodi:role="line"
+           id="tspan3910-60"
+           x="-14.736385"
+           y="-47.627232">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd"
+   id="tspan3916-4">0,0,1</tspan>)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Humor Sans;-inkscape-font-specification:Humor Sans"
+         x="-140.80782"
+         y="190.9442"
+         id="text3908-9"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237"><tspan
+           sodipodi:role="line"
+           id="tspan3910-4"
+           x="-140.80782"
+           y="190.9442">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd"
+   id="tspan3916-6">1,0,0</tspan>)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Humor Sans;-inkscape-font-specification:Humor Sans"
+         x="-25.450676"
+         y="190.94421"
+         id="text3908-5-0"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237"><tspan
+           sodipodi:role="line"
+           id="tspan3910-2-3"
+           x="-25.450676"
+           y="190.94421">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd"
+   id="tspan3916-3-6">0.5,0.5,0</tspan>)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Humor Sans;-inkscape-font-specification:Humor Sans"
+         x="-111.16496"
+         y="60.229908"
+         id="text3908-5-2"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237"><tspan
+           sodipodi:role="line"
+           id="tspan3910-2-4"
+           x="-111.16496"
+           y="60.229908">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd"
+   id="tspan3916-3-5">0.5,0,0.5</tspan>)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Humor Sans;-inkscape-font-specification:Humor Sans"
+         x="273.83505"
+         y="37.729919"
+         id="text3908-5-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3910-2-8"
+           x="273.83505"
+           y="37.729919">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd"
+   id="tspan3916-3-1">0,1,0</tspan>)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Humor Sans;-inkscape-font-specification:Humor Sans"
+         x="262.40646"
+         y="62.372765"
+         id="text3908-5-21"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3910-2-49"
+           x="262.40646"
+           y="62.372765">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd"
+   id="tspan3916-3-8">0,1,0</tspan>)</tspan></text>
+      <path
+         style="fill:#000000"
+         d="m 3.1070748,87.112904 c 0.6827457,-6.086325 -1.4044009,-7.74128 0.6146621,-7.669738 2.5198414,0.08929 2.3328636,-2.672923 2.9552836,-4.149733 1.9003282,-4.508889 2.0328439,-1.613744 1.5875939,0.03228 -0.31828,1.17665 -1.3580239,3.076258 0.5358118,3.945437 1.7223998,0.790498 1.8455868,1.460943 -0.69513,4.85185 -5.3808904,7.181477 -5.5074874,7.529751 -4.9982214,2.989908 z"
+         id="path4058"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssss"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237" />
+      <path
+         style="fill:#000000"
+         d="m 9.2054071,71.613941 c 0,-2.339931 6.7568089,-10.731716 7.6415239,-9.515605 0.359107,0.493632 -1.912797,2.79357 -3.742357,5.156207 -1.82956,2.362618 -3.8991669,5.38641 -3.8991669,4.359398 z"
+         id="path4056"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssss"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237" />
+      <path
+         style="fill:#000000"
+         d="m 25.152196,55.07898 c 5.296434,-4.546199 6.221383,-4.62705 2.791486,-0.699734 -1.500335,1.717919 -6.899198,6.273316 -8.299896,6.237842 -1.632396,-0.04134 3.725259,-4.007539 5.50841,-5.538108 z"
+         id="path4054"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssss"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237" />
+      <path
+         style="fill:#000000"
+         d="m 32.706344,50.129376 c 2.726359,-3.596521 8.556569,-6.798247 11.854647,-8.630541 0.858714,0.36798 -0.511391,1.073349 -4.218885,3.76878 -5.595641,4.068156 -8.417318,5.892763 -7.635762,4.861761 z"
+         id="path4052"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scss"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237" />
+      <path
+         style="fill:#000000"
+         d="m 50.95572,39.613324 c -0.191875,-0.833992 5.560037,-3.703851 8.460815,-4.37123 3.138743,-0.722127 7.317419,-3.418357 6.979964,-2.390574 -0.311858,0.94985 -5.811229,3.440918 -8.208279,3.992405 -2.397041,0.551485 -7.040631,3.603358 -7.2325,2.769399 z"
+         id="path3491"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237" />
+      <text
+         xml:space="preserve"
+         style="font-size:16.44771004px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:xkcd;-inkscape-font-specification:xkcd"
+         x="-151.37889"
+         y="-28.775919"
+         id="text4060"
+         sodipodi:linespacing="125%"
+         transform="scale(1.0210379,0.97939562)"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237"><tspan
+           sodipodi:role="line"
+           id="tspan4062"
+           x="-151.37889"
+           y="-28.775919">The Barycentric</tspan><tspan
+           sodipodi:role="line"
+           x="-151.37889"
+           y="-8.2162819"
+           id="tspan4064">Triangle</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#ffffff;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:1, 1;stroke-dashoffset:0"
+         id="rect3027"
+         width="345"
+         height="263.21429"
+         x="194.28572"
+         y="329.14789"
+         transform="translate(-365.67668,-390.81746)"
+         inkscape:export-filename="D:\github\datascientist_personneleconomics\data-scientist\assets\img\barycentric-triangle.png"
+         inkscape:export-xdpi="237"
+         inkscape:export-ydpi="237" />
+    </g>
+  </g>
+</svg>

@@ -67,7 +67,12 @@ Data Scientist: the sexiest job of the 21st century,
 
 ***
 
-triangle: domain knowledge - math knowledge - tech knowledge
+<img src="assets/img/barycentric-triangle.png" />
+
+***
+
+<img src="assets/img/data-scientist-triangle.png" />
+
 
 --- &vertical
 
@@ -189,7 +194,7 @@ become a master in their field of specialisation
 
 ## Thank you
 
-and we're hiring! &#9786; 
+&hellip;and we're hiring! &#9786; 
 
 <!-- &#128522; &#128512; -->
 
