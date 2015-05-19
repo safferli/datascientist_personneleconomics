@@ -1,6 +1,6 @@
 ---
-title       : 
-subtitle    : UDC 2015
+title       : Data Analysts -- How to recruit and retain a team
+subtitle    : Big Data Conference, Startplatz
 author      : Christoph Safferling
 job         : Head of Game Analytics
 url         : {lib: "."}    # this is important for reveal.js
@@ -22,16 +22,176 @@ background-size: 100%;
 </style>
 -->
 
-## intro
+<p style="color: #13DAEC; font-family: 'Lato', sans-serif; font-size: 150%; margin: 0 0 10% 0;">
+  Data Analysts <br /> How to recruit and retain a team
+</p>
 
---- ds:title
+<p style="font-size: 100%;">Christoph Safferling</p>
+<p style="font-size: 80%; margin: 3% 0 0 0;">Head of Game Analytics <br/ > Ubisoft Blue Byte</p>
 
-## title
+--- ds:ubi
+
+## Ubisoft Blue Byte
+
+- founded in 1988, best known for the *Settlers* and *Anno* brand
+- fully acquired by Ubisoft in 2001
+- online games since 2010
+- newest title: [Assassin's Creed: Identity]
+  (https://itunes.apple.com/nz/app/assassins-creed-identity/id880971164?mt=8) 
+  (mobile)
+
+---
+
+## Christoph Safferling
+
+- Contact:
+  - Twitter: [@safferli](https://twitter.com/safferli) 
+  - LinkedIn: https://www.linkedin.com/in/safferling 
+- since 2012: Head of Game Analytics at Blue Byte
+- PhD in economics: [Three Essays on the Economics of Online Games]
+  (http://kops.uni-konstanz.de/handle/123456789/17259?locale-attribute=en)
+- academic papers available at [repec.org](https://ideas.repec.org/f/psa961.html)
+
+
 
 --- &vertical
 
-first
+## Data Scientists
+
+> [A data scientist is] a high-ranking professional with the training and 
+> curiosity to make discoveries in the world of big data.
+
+Data Scientist: the sexiest job of the 21st century, 
+[Harvard Business Review, Oct 2012]
+(https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
 
 ***
 
-second
+triangle: domain knowledge - math knowledge - tech knowledge
+
+--- &vertical
+
+## How do you get Data Scientists?
+
+- be international
+- recruit young talent
+- offer an interesting challenge
+
+***
+
+### Be International!
+
+<style>
+img.flag{width:75px;}
+</style>
+
+<table align="center">
+<tr>
+<td>Chinese</td>
+<td><img src="assets/img/china.gif" class="flag" /></td>
+<td>German</td>
+<td><img src="assets/img/germany.gif" class="flag" /></td>
+</tr>
+<tr>
+<td>Russian</td>
+<td><img src="assets/img/russia.gif" class="flag" /></td>
+<td>Ukranian</td>
+<td><img src="assets/img/ukraine.gif" class="flag" /></td>
+</tr>
+<tr>
+<td>Japanese</td>
+<td><img src="assets/img/japan.gif" class="flag" /></td>
+<td>Canadian</td>
+<td><img src="assets/img/canada.gif" class="flag" /></td>
+</table>
+
+*** 
+
+### Recruit Young Talent
+
+- many universities now offer data science specialisations
+- train your own analysts 
+- neccessity: there aren't many data scientists available! 
+
+***
+
+### Offer a challenge
+
+- analysts want to learn, and apply their knowledge
+- no platitudes, don't exaggerate, or lie!
+  - data scientists are good at building models and anticipating 
+- these are smart people, who will have a good overview of everything that your company is doing (they're crunching the data!). Don't try to fool them, you'll fail. 
+
+--- &vertical
+
+## How do you retain Data Scientists? 
+
+<!-- have a good work environment -->
+
+- pay them enough
+- give them the tools, time, and opportunities to do their job 
+- let them make a difference 
+- give them the feeling of competence 
+
+<!-- autonomy -->
+<!-- importance -->
+<!-- competence -->
+
+***
+
+### pay them enough
+
+<img src="assets/img/cash.gif" />
+
+<!--
+pay is not important
+-->
+
+***
+
+### autonomy
+
+<img src="assets/img/kevin-shotgun.gif" />
+
+<!--
+letting them grow professionally
+-->
+
+*** 
+
+### make a difference
+
+<img src="assets/img/daffy-klatsch.gif" />
+
+<!--
+
+-->
+
+*** 
+### competence
+
+<img src="assets/img/code-13.gif" />
+
+<!--
+become a master in their field of specialisation
+-->
+
+---
+
+### Conclusion
+
+- have an interesting work environment
+- treat analysts as smart people
+- keep and encourage their sense of wonder and excitement
+- reign in and direct their sense of wonder and excitement!
+
+---
+
+## Thank you
+
+and we're hiring! &#9786; 
+
+<!-- &#128522; &#128512; -->
+
+christoph.safferling@ubisoft.com
+
