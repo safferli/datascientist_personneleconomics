@@ -87,27 +87,35 @@ Data Scientist: the sexiest job of the 21st century,
 ### Be International!
 
 <style>
-img.flag{width:75px;}
+img.flag{width:75px; vertical-align: text-bottom;}
+</style>
+<style>
+table.center{margin-left: auto; margin-right: auto; width: 60%;}
+td.mytd{vertical-align: middle;}
 </style>
 
-<table align="center">
+<table class="center">
 <tr>
-<td>Chinese</td>
-<td><img src="assets/img/china.gif" class="flag" /></td>
-<td>German</td>
-<td><img src="assets/img/germany.gif" class="flag" /></td>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>Russian</td>
-<td><img src="assets/img/russia.gif" class="flag" /></td>
-<td>Ukranian</td>
-<td><img src="assets/img/ukraine.gif" class="flag" /></td>
+<td class="mytd">Chinese</td>
+<td class="mytd"><img src="assets/img/china.gif" class="flag" /></td>
+<td class="mytd">German</td>
+<td class="mytd"><img src="assets/img/germany.gif" class="flag" /></td>
 </tr>
 <tr>
-<td>Japanese</td>
-<td><img src="assets/img/japan.gif" class="flag" /></td>
-<td>Canadian</td>
-<td><img src="assets/img/canada.gif" class="flag" /></td>
+<td class="mytd">Russian</td>
+<td class="mytd"><img src="assets/img/russia.gif" class="flag" /></td>
+<td class="mytd">Ukranian</td>
+<td class="mytd"><img src="assets/img/ukraine.gif" class="flag" /></td>
+</tr>
+<tr>
+<td class="mytd">Japanese</td>
+<td class="mytd"><img src="assets/img/japan.gif" class="flag" /></td>
+<td class="mytd">Canadian</td>
+<td class="mytd"><img src="assets/img/canada.gif" class="flag" /></td>
 </table>
 
 *** 
@@ -123,9 +131,13 @@ img.flag{width:75px;}
 ### Offer a challenge
 
 - analysts want to learn, and apply their knowledge
+- analysts dread boring work -- that's what scripts are for
 - no platitudes, don't exaggerate, or lie!
-  - data scientists are good at building models and anticipating 
+
+
+<!--
 - these are smart people, who will have a good overview of everything that your company is doing (they're crunching the data!). Don't try to fool them, you'll fail. 
+-->
 
 --- &vertical
 
