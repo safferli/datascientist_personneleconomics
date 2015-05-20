@@ -90,9 +90,9 @@ Data Scientist: the sexiest job of the 21st century,
 <style>
 img.flag{width:75px; vertical-align: text-bottom;}
 </style>
+<!-- ugly hack: align the text to the flags, rather than the other way round -->
 <style>
 table.center{margin-left: auto; margin-right: auto; width: 60%;}
-<!-- ugly hack: align the text to the flags, rather than the other way round -->
 td.mytd{vertical-align: middle;}
 </style>
 
