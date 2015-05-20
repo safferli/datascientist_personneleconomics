@@ -50,6 +50,7 @@ background-size: 100%;
 - since 2012: Head of Game Analytics at Blue Byte
 - PhD in economics: [Three Essays on the Economics of Online Games]
   (http://kops.uni-konstanz.de/handle/123456789/17259?locale-attribute=en)
+- research specialties: personnel economics, incentive theory, industrial organisation
 - academic papers available at [repec.org](https://ideas.repec.org/f/psa961.html)
 
 
@@ -91,6 +92,7 @@ img.flag{width:75px; vertical-align: text-bottom;}
 </style>
 <style>
 table.center{margin-left: auto; margin-right: auto; width: 60%;}
+<!-- ugly hack: align the text to the flags, rather than the other way round -->
 td.mytd{vertical-align: middle;}
 </style>
 
