@@ -12,6 +12,12 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 --- ds:intro
 
+<!--
+2015-05-21
+Startplatz Big Data Konferenz
+http://www.startplatz.de/event/big-data-konferenz/
+-->
+
 <!-- adjust background for "intro" slides
 <style>
 html.intro body {
