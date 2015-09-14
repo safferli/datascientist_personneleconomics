@@ -52,6 +52,7 @@ background-size: 100%;
   (http://kops.uni-konstanz.de/handle/123456789/17259?locale-attribute=en)
 - research specialties: personnel economics, incentive theory, industrial organisation
 - academic papers available at [repec.org](https://ideas.repec.org/f/psa961.html)
+- this talk on github: 
 
 
 
