@@ -1,6 +1,6 @@
 ---
 title       : Data Analysts -- How to recruit and retain a team
-subtitle    : Big Data Conference, Startplatz
+subtitle    : Game Analytics Forum GABI2015
 author      : Christoph Safferling
 job         : Head of Game Analytics
 url         : {lib: "."}    # this is important for reveal.js
@@ -10,24 +10,43 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+revealjs: 
+    theme: default
 --- ds:intro
 
-<!-- adjust background for "intro" slides
+<!-- 2015-09-15
+     GABI 2015 London
+-->
+
 <style>
 html.intro body {
-background:url("./assets/img/background-title-ubi.png");
+background:url("./assets/img/ubi-background.jpg");
 background-position:center;
 background-size: 100%;
 } 
 </style>
--->
 
 <p style="color: #13DAEC; font-family: 'Lato', sans-serif; font-size: 150%; margin: 0 0 10% 0;">
-  Data Analysts <br /> How to recruit and retain a team
+  Data Analytics <br />
+  <span style="font-size: 80%;">How to Recruit and Retain a Team</span>
 </p>
 
-<p style="font-size: 100%;">Christoph Safferling</p>
-<p style="font-size: 80%; margin: 3% 0 0 0;">Head of Game Analytics <br/ > Ubisoft Blue Byte</p>
+<p style="font-size: 100%; color: #000000;">
+  Christoph Safferling
+</p>
+<p style="font-size: 80%; margin: 3% 0 0 0; color: #222222;">
+  Head of Game Analytics <br/ > 
+  Ubisoft Blue Byte
+</p>
+
+<!-- fuck CSS... why can't I include this in a custom CSS? -->
+
+<style>
+.reveal {color: #231F20;}
+.reveal h2, .reveal h3 {color: #222222;}
+</style>
+
+
 
 --- ds:ubi
 
