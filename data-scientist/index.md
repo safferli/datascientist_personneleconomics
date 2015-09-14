@@ -27,7 +27,7 @@ background-size: 100%;
 </style>
 
 <p style="color: #13DAEC; font-family: 'Lato', sans-serif; font-size: 150%; margin: 0 0 10% 0;">
-  Data Analytics <br />
+  Data Analysts<br />
   <span style="font-size: 80%;">How to Recruit and Retain a Team</span>
 </p>
 

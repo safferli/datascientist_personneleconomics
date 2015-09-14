@@ -27,7 +27,7 @@ background-size: 100%;
 </style>
 
 <p style="color: #13DAEC; font-family: 'Lato', sans-serif; font-size: 150%; margin: 0 0 10% 0;">
-  Data Analytics <br />
+  Data Analysts<br />
   <span style="font-size: 80%;">How to Recruit and Retain a Team</span>
 </p>
 
@@ -146,6 +146,7 @@ td.mytd{vertical-align: middle;}
 
 - many universities now offer data science specialisations
 - train your own analysts 
+- hire fast and independent learners
 - neccessity: there aren't many data scientists available! 
 
 ***
@@ -156,9 +157,10 @@ td.mytd{vertical-align: middle;}
 - analysts dread boring work -- that's what scripts are for
 - no platitudes, don't exaggerate, don't lie!
 
-
 <!--
 - these are smart people, who will have a good overview of everything that your company is doing (they're crunching the data!). Don't try to fool them, you'll fail. 
+
+Note also that analysts hold valuable information on your entire company. If they leave, they take it with them!
 -->
 
 --- &vertical
@@ -171,10 +173,6 @@ td.mytd{vertical-align: middle;}
 - give them the tools, time, and opportunities to do their job 
 - let them make a difference 
 - give them the feeling of competence 
-
-<!-- autonomy -->
-<!-- importance -->
-<!-- competence -->
 
 ***
 
@@ -203,7 +201,7 @@ letting them grow professionally
 <img src="assets/img/daffy-klatsch.gif" />
 
 <!--
-
+if they don't feel valued, they'll leave
 -->
 
 *** 
