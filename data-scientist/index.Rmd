@@ -146,7 +146,8 @@ td.mytd{vertical-align: middle;}
 
 - many universities now offer data science specialisations
 - train your own analysts 
-- hire fast and independent learners
+- hire fast and independent learners: "mitdenken"
+- a lonely analyst is a sad sight
 - neccessity: there aren't many data scientists available! 
 
 ***
@@ -220,7 +221,7 @@ become a master in their field of specialisation
 - have an interesting work environment
 - treat analysts as smart people
 - keep and encourage their sense of wonder and excitement
-- reign in and direct their sense of wonder and excitement!
+- rein in and direct their sense of wonder and excitement!
 
 ---
 

@@ -11,3 +11,9 @@ setwd(wd)
 
 author("data-scientist")
 slidify("index.Rmd")
+
+# The YAML parsing is done by the yaml package which will treat true as TRUE. 
+# The easiest thing to make this work on the javascript side is to use 
+# page.foo === "TRUE", or even better write a function that will return true 
+# when the input is TRUE.
+# https://github.com/ramnathv/slidify/issues/455#issuecomment-140250538

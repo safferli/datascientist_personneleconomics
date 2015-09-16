@@ -146,6 +146,8 @@ td.mytd{vertical-align: middle;}
 
 - many universities now offer data science specialisations
 - train your own analysts 
+- hire fast and independent learners: "mitdenken"
+- a lonely analyst is a sad sight
 - neccessity: there aren't many data scientists available! 
 
 ***
@@ -156,9 +158,10 @@ td.mytd{vertical-align: middle;}
 - analysts dread boring work -- that's what scripts are for
 - no platitudes, don't exaggerate, don't lie!
 
-
 <!--
 - these are smart people, who will have a good overview of everything that your company is doing (they're crunching the data!). Don't try to fool them, you'll fail. 
+
+Note also that analysts hold valuable information on your entire company. If they leave, they take it with them!
 -->
 
 --- &vertical
@@ -171,10 +174,6 @@ td.mytd{vertical-align: middle;}
 - give them the tools, time, and opportunities to do their job 
 - let them make a difference 
 - give them the feeling of competence 
-
-<!-- autonomy -->
-<!-- importance -->
-<!-- competence -->
 
 ***
 
@@ -203,7 +202,7 @@ letting them grow professionally
 <img src="assets/img/daffy-klatsch.gif" />
 
 <!--
-
+if they don't feel valued, they'll leave
 -->
 
 *** 
@@ -222,7 +221,7 @@ become a master in their field of specialisation
 - have an interesting work environment
 - treat analysts as smart people
 - keep and encourage their sense of wonder and excitement
-- reign in and direct their sense of wonder and excitement!
+- rein in and direct their sense of wonder and excitement!
 
 ---
 
